@@ -74,4 +74,4 @@ This model helps banks:
 ## Author
 **Mayank Yadav**
 
-**Aspiring Data Analyst | Data Scientist**
+**Aspiring Data Analyst | Data Scientist | Machine Learning Engineer**
